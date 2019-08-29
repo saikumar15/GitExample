@@ -11,6 +11,7 @@ namespace GitExample
         static void Main(string[] args)
         {
             //Branch2 added
+            //branch2 connect to branch1
 
         }
     }
