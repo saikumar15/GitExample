@@ -12,6 +12,8 @@ namespace GitExample
         {
             //Branch2 added
             //branch2 connect to branch1
+            //branch
+            //branch2 to 1
 
         }
     }
