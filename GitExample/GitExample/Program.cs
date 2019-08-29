@@ -10,15 +10,7 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            //Branch2 added
-
-            //Branch3 added
-
-            ///Branch3 added
-            //kalanikethan
-            //Branch3 added
-
-
+            //Branch3 modified
         }
     }
 }
