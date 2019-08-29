@@ -10,7 +10,8 @@ namespace GitExample
     {
         static void Main(string[] args)
         {
-            //Branch1
+            //Branch2 added
+
         }
     }
 }
