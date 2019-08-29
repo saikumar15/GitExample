@@ -12,6 +12,8 @@ namespace GitExample
         {
             //Branch2 added
 
+            //Branch3 added
+
         }
     }
 }
